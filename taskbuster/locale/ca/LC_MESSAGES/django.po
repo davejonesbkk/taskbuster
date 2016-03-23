@@ -27,19 +27,16 @@ msgid "Catalan"
 msgstr "Català"
 
 #: taskbuster/templates/taskbuster/index.html:9
-#, fuzzy
-#| msgid "Welcome to TaskBuster!"
 msgid "Welcome to TaskBuster!"
 msgstr "Benvingut a TaskBuster!"
 
 #: taskbuster/templates/taskbuster/index.html:10
-#, fuzzy
-#| msgid ""
-#| "TaskBuster is a simple Task manager that helps you organize your daylife. "
-#| "</br> You can create todo lists, periodic tasks and more! </br></br> If "
-#| "you want to learn how it was created, or create it yourself!, check the "
-#| "<a href='http://www.marinamele.com/taskbuster-django-tutorial' "
-#| "target=_'blank'>TaskBuster Django Tutorial</a>."
+msgid ""
+"TaskBuster is a simple Task manager that helps you organize your daylife. "
+"</br> You can create todo lists, periodic tasks and more! </br></br> If "
+"you want to learn how it was created, or create it yourself!, check the "
+"<a href='http://www.marinamele.com/taskbuster-django-tutorial' "
+"target=_'blank'>TaskBuster Django Tutorial</a>."
 msgid ""
 "TaskBuster is a simple Task manager that helps you organize your daylife. </"
 "br> You can create todo lists, periodic tasks and more! </br></br> If you "
