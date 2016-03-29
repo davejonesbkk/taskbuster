@@ -1,0 +1,9 @@
+#Google API details
+
+#client ID
+
+#562551111991-atqh5mk9caudgb86k320411rcjph065s.apps.googleusercontent.com
+
+#client secret
+
+#TY-xuni4V04Hz51r6D7v5zSs

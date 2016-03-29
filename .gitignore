@@ -7,3 +7,5 @@ key.txt
 
 .coverage
 htmlcov
+
+taskbuster/fixtures
