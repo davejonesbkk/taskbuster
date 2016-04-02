@@ -83,6 +83,13 @@ class HomeNewVisitorTest(StaticLiveServerTestCase):
 		ny = self.browser.find_element_by_id('time-ny').text
 		self.assertNotEqual(tz, utc)
 		self.assertNotIn(ny, [tz, utc])
+
+	#def test_learn_more_page(self):
+		#self.browser.get(self.get_full_url('home'))
+		#button1 = self.browser.get_attribute("href")
+		#self.assertEqual(button1('#'))
+
+		
 		
 
 

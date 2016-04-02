@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load i18n %}
+{% load l10n %}
+{% load tz %}
+{% block head_title %}TaskBuster Django Tutorial{% endblock %}
+
+{% block content %}
+<!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>{% trans "Welcome to TaskBuster!" %}</h1>
+        <p>{% blocktrans %}TaskBuster is a simple Task manager that helps you organize your daylife. </br> You can create todo lists, periodic tasks and more! </br></br> If you want to learn how it was created, or create it yourself!, check www.django-tutorial.com{% endblocktrans %}</p>
+
+        <h2>{% trans "This is the about page!" %}</h2>
+
+
+      </div>
+    </div>
+
+
+
+{% endblock %}   
