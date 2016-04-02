@@ -31,8 +31,8 @@ msgid "Welcome to TaskBuster!"
 msgstr "Benvingut a TaskBuster!"
 
 #: taskbuster/templates/taskbuster/about.html:14
-msgid: "This is the about page!"
-msgstr: "Esta es la página acerca!"
+msgid "This is the about page!"
+msgstr "Esta es la página acerca!"
 
 #: taskbuster/templates/taskbuster/index.html:10
 #, fuzzy
